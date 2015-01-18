@@ -207,6 +207,9 @@ top:-500px;
 
 .service-banner .bkgrnd-img {
   width: 100%;
+  position: relative;
+  top:0px;
+  right: 0px;
 }
 
 .overlay:hover {
