@@ -190,7 +190,6 @@ footer {
   height: auto;
   background-color: blue;
   z-index:10;
-  position: relative;
   display: block;
 }
 
@@ -211,7 +210,6 @@ padding: 0px;
   right: 0px;
   top: 0px;
   background-color: green;
-  height: 500px;
   padding: 0px;
   text-align: right;
 }
