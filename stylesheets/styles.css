@@ -190,7 +190,7 @@ footer {
   height: 500px;
 }
 
-.service-banner img {
+.service-banner .overlay img {
   width: 100%;
   z-index:50;
 }
