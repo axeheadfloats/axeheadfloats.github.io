@@ -214,6 +214,10 @@ padding: 0px;
   text-align: right;
 }
 
+.service-banner .bkgrnd-img img {
+  width: 100%;
+}
+
 .overlay:hover {
 opacity: .4;
 }
