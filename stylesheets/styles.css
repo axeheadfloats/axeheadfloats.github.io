@@ -187,8 +187,6 @@ footer {
 
 .service-banner {
   width: 100%;
-  padding-left: -50px;
-  padding-right: -50px;
 }
 
 .service-banner img {
@@ -197,9 +195,10 @@ footer {
 
 .overlay {
 background-color:#000;
-opacity: 1;
-width: 100%;
+opacity: 0;
+width: 50%;
 height: 500px;
+background-position: right;
 z-index:100;
 position: relative;
 top:0px;
