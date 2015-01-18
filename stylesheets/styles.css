@@ -195,6 +195,11 @@ footer {
   width: 100%;
 }
 
+.service-banner.overlay {
+background-color: #000;
+opacity: 50%;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
