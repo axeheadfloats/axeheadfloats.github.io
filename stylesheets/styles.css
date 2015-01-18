@@ -207,6 +207,7 @@ left: 100px;
 .service-banner .bkgrnd-img {
   width: 100%;
   position: relative;
+  background-color: green;
 }
 
 .overlay:hover {
