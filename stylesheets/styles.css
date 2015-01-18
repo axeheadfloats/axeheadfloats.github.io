@@ -7,9 +7,6 @@ body {
   font-weight:300;
 }
 
-body.service-banner {
-  padding: 0px;
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -195,7 +192,8 @@ footer {
 
 .service-banner img {
   width: 100%;
-  padding: 0px;
+  padding-left: -50px;
+  padding-right: -50px;
   margin:0px;
 }
 
