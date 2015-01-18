@@ -195,7 +195,7 @@ footer {
   width: 100%;
 }
 
-a.overlay:hover {
+.overlay a:hover {
 background-color: #000;
 opacity: .5;
 width: 100%;
