@@ -192,8 +192,8 @@ footer {
 
 .service-banner img {
   width: 100%;
-  padding-left: -50px;
-  padding-right: -50px;
+  margin-left: -50px;
+  margin-right: -50px;
   margin:0px;
 }
 
