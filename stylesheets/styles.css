@@ -190,6 +190,7 @@ footer {
   height: auto;
   background-color: blue;
   z-index:10;
+  position: relative;
 }
 
 .service-banner .overlay {
