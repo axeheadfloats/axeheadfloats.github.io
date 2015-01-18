@@ -186,15 +186,12 @@ footer {
 
 .service-banner {
   width: 100%;
-  margin: 0px;
-  padding: 0px;
+  padding-left: -50px;
+  padding-right: -50px;
 }
 
 .service-banner img {
   width: 100%;
-  margin-left: -50px;
-  margin-right: -50px;
-  margin:0px;
 }
 
 @media print, screen and (max-width: 960px) {
