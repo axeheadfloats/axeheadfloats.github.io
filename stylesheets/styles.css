@@ -187,13 +187,15 @@ footer {
 
 .service-banner {
   width: 100%;
+  height: 500px;
 }
 
 .service-banner img {
   width: 100%;
+  z-index:50;
 }
 
-.overlay {
+.service-banner .overlay {
 background-color:#000;
 opacity: 0;
 width: 50%;
@@ -201,8 +203,8 @@ height: 500px;
 background-position: right;
 z-index:100;
 position: relative;
+right:0px;
 top:0px;
-left:0px;
 }
 
 .overlay:hover {
