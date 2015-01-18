@@ -192,16 +192,15 @@ footer {
   z-index:10;
 }
 
-
-
 .service-banner .overlay {
 background-color:#000;
 opacity: 0;
 width: 50%;
-height: 100%;
+height: 500px;
 z-index:100;
 position: relative;
 left: 100px;
+padding: 0px;
 }
 
 .service-banner .bkgrnd-img {
@@ -209,6 +208,7 @@ left: 100px;
   position: relative;
   background-color: green;
   height: 500px;
+  padding: 0px;
 }
 
 .overlay:hover {
