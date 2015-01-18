@@ -195,7 +195,7 @@ footer {
   width: 100%;
 }
 
-.service-banner.overlay {
+.overlay {
 background-color: #000;
 opacity: 50%;
 }
