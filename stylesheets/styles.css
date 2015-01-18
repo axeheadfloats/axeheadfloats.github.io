@@ -212,6 +212,7 @@ padding: 0px;
   background-color: green;
   height: 500px;
   padding: 0px;
+  text-align: right;
 }
 
 .overlay:hover {
