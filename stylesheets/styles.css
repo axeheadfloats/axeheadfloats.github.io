@@ -198,14 +198,14 @@ opacity: 0;
 width: 50%;
 height: 500px;
 z-index:100;
-position: absolute;
+position: fixed;
 right: 0px;
 padding: 0px;
 }
 
 .service-banner .bkgrnd-img {
   width: 100%;
-  position: absolute;
+  position: fixed;
   right: 0px;
   top: 0px;
   background-color: green;
