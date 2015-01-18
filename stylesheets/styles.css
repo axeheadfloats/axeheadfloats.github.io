@@ -201,15 +201,12 @@ width: 50%;
 height: 500px;
 z-index:100;
 position: relative;
-right:0px;
-top:-500px;
+left: 100px;
 }
 
 .service-banner .bkgrnd-img {
   width: 100%;
   position: relative;
-  top:-500px;
-  left: 0px;
 }
 
 .overlay:hover {
