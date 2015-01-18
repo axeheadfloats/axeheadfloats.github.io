@@ -49,6 +49,7 @@ a small {
 .wrapper {
   width:860px;
   margin:0 auto;
+  padding: 50px;
 }
 
 blockquote {
