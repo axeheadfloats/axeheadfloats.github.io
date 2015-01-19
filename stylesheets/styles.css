@@ -220,6 +220,7 @@ text-align: right;
 
 .service-banner .bkgrnd-img img {
   width: 100%;
+  height: 500px;
 }
 
 .overlay:hover {
