@@ -236,7 +236,7 @@ text-align: right;
   height: 500px;
 }
 
-.overlay:hover {
+.service-banner .overlay:hover {
 opacity: .4;
 }
 
