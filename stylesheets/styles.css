@@ -207,6 +207,12 @@ right: 0px;
 padding: 0px;
 }
 
+.overlay h1, .overlay h2, .overlay h3, .overlay h4, .overlay h5, .overlay p {
+  color: white;
+  padding: 15px;
+  box-shadow: 5px 5px 5px #000;
+}
+
 .service-banner .bkgrnd-img {
 background-color:green;
 width: 100%;
