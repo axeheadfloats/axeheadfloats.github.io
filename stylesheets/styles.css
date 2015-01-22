@@ -237,7 +237,7 @@ text-align: right;
 }
 
 .service-banner .overlay:hover {
-opacity: .4;
+opacity: .6;
 }
 
 @media print, screen and (max-width: 960px) {
