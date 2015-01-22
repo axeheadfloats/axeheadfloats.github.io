@@ -205,6 +205,10 @@ z-index:100;
 position: fixed;
 right: 0px;
 padding: 0px;
+  -webkit-transition-property: opacity; /* Safari */
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-property: opacity;
+  transition-duration: 1.5s;
 }
 
 .overlay h1, .overlay h2, .overlay h3, .overlay h4, .overlay h5, .overlay p {
@@ -214,10 +218,6 @@ padding: 0px;
   box-shadow: 1px 1px 1px #000;
   opacity: 1;
   font-family: arial, sans-serif;
-  -webkit-transition-property: opacity; /* Safari */
-  -webkit-transition-duration: 1.5s; /* Safari */
-  transition-property: opacity;
-  transition-duration: 1.5s;
 }
 
 .service-banner .bkgrnd-img {
