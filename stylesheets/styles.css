@@ -241,7 +241,7 @@ opacity: .6;
 }
 
 .logo {
-  background-image: url('http://seeworthymedia.com/images/SW%20logo.png');
+  background-image: url("http://seeworthymedia.com/images/SW%20logo.png");
   width: 300px;
   position: fixed;
   top: 50px;
