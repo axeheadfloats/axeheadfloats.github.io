@@ -240,6 +240,14 @@ text-align: right;
 opacity: .6;
 }
 
+.logo {
+  background-image: url(http://seeworthymedia.com/images/SW%20logo.png);
+  width: 300px;
+  position: fixed;
+  top: 50px;
+  right: 50px;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
