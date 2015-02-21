@@ -196,6 +196,7 @@ position: fixed;
 right: 0px;
 padding: 0px;
 overflow: hide;
+display: block;
 }
 
 .service-banner .overlay {
